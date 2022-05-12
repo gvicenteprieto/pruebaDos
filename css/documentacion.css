@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+.fondo-celeste {
+    background-color: #63BCE8;
+}
+
+/* COLORES INSTITUCIONALES */
+
+.fondo-mostaza {
+    background-color: #FFD100;
+}
+
+.fondo-celeste {
+    background-color: #63BCE8;
+}
+
+.fondo-verde-claro {
+    background-color: #D7DF23;
+}
+
+.fondo-verde-oscuro {
+    background-color: #50B8B1;
+}
+
+.fondo-violeta {
+    background-color: #9283BE;
+}
+
+.fondo-azul {
+    background-color: #096BB4;
+}
+
+.fondo-argentina {
+    background-color: #37BBED;
+}
+
+.margin-botonera {
+    margin-top: 7rem;
+}
+
+.fondo-seminarios {
+    background-color: rgb(59, 174, 169);
+}
+
+.fondo-jornadas {
+    background-color: rgb(71, 186, 236);
+}
+
+.fondo-diplomatura {
+    background-color: #F7941E;
+}
+
+.fondo-conferencias {
+    background-color: #EE3D8F;
+}
+
+.fondo-curso {
+    background-color: #37BBED;
+}
+
+.logo-mtr {
+    float: right;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+/* .bann {
+    background-image: url("./img/banner/3B5A0716.JPG");
+    background-color: transparent;
+} */
+
+
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.navbar .navbar-brand img{
+        width: auto!important
+}
+.navbar{
+  box-shadow:none!important;
+}
+
+.mensajeError:hover,.cursorPointer{
+  cursor:pointer;
+}
+
+.has-error .chosen-container a{
+  border-color:#BB4945!important;
+}
+
+.breadcrumb li,.breadcrumb li a,.breadcrumb > li + li:before, .breadcrumb > .active{color: #fff!important;}
+.paleta .color{height: 150px;border-radius: 4px}
+.paleta label{margin-top: 5px;font-size: 18px;font-weight: 600}
+.paleta p{padding: 0;font-weight: 400;text-transform: uppercase}
+.paleta-circle .color{border-radius: 50%;width: 50px;height: 50px;margin: 0 auto 0 auto;}
+
+code[class*="language-"], pre[class*="language-"]{
+	white-space: pre-line!important;
+}
+
+@media (min-width: 641px) {
+  .rc-label {
+    float: left;
+  }
+}
+
+/*Visualización listado de iconos*/
+#listaPoncho i,#listaFontawesome i{
+    display: block;
+    font-size: 50px
+  }
+  .modal-body .label{
+    margin-right: 5px;
+    margin-top: 5px;
+  }
+
+  pre{
+    text-align: left;
+    margin-top: 15px;
+  }
+
+  .icono:hover{cursor:pointer;}
+  .icono:hover i{color:#0072bb ;}
+/**/
+
+.cardtiempo {
+            display: flex;
+            justify-content: space-around;
+        }
+
+ .bd-example {
+      position: relative;
+      border: solid #dee2e6;
+      padding: 1.5rem;
+      margin-right: 0;
+      margin-left: 0;
+      border-width: .2rem;
+
+  }
+
+.col-ejemplo{
+      padding-top: .75rem;
+      padding-bottom: .75rem;
+      background-color: rgba(86,61,124,.15);
+      border: 1px solid rgba(86,61,124,.2);
+}
