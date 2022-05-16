@@ -1,74 +1,3 @@
-/* COLORES INSTITUCIONALES */
-
-.fondo-mostaza {
-    background-color: #FFD100;
-}
-
-.fondo-celeste {
-    background-color: #63BCE8;
-}
-
-.fondo-verde-claro {
-    background-color: #D7DF23;
-}
-
-.fondo-verde-oscuro {
-    background-color: #50B8B1;
-}
-
-.fondo-violeta {
-    background-color: #9283BE;
-}
-
-.fondo-azul {
-    background-color: #096BB4;
-}
-
-.fondo-argentina {
-    background-color: #37BBED;
-}
-
-.margin-botonera {
-    margin-top: 7rem;
-}
-
-.fondo-seminarios {
-    background-color: rgb(59, 174, 169);
-}
-
-.fondo-jornadas {
-    background-color: rgb(71, 186, 236);
-}
-
-.fondo-diplomatura {
-    background-color: #F7941E;
-}
-
-.fondo-conferencias {
-    background-color: #EE3D8F;
-}
-
-.fondo-curso {
-    background-color: #37BBED;
-}
-
-.logo-mtr {
-    float: right;
-}
-
-.boton-footer {
-    color: #37BBED;
-    font-size: 48px;
-}
-
-.margin-footer {
-    margin-top: 2rem;
-}
-
-.alinear-derecha {
-    float: right;
-}
-
 /*estilos itinerante*/
 
 :root {
@@ -10696,3 +10625,78 @@ body main {
 }
 
 /*# sourceMappingURL=styles.css.map */
+
+/* COLORES INSTITUCIONALES */
+
+.fondo-mostaza {
+  background-color: #FFD100;
+}
+
+.fondo-celeste {
+  background-color: #63BCE8;
+}
+
+.fondo-verde-claro {
+  background-color: #D7DF23;
+}
+
+.fondo-verde-oscuro {
+  background-color: #50B8B1;
+}
+
+.fondo-violeta {
+  background-color: #9283BE;
+}
+
+.fondo-azul {
+  background-color: #096BB4;
+}
+
+.fondo-argentina {
+  background-color: #37BBED;
+}
+
+.margin-botonera {
+  margin-top: 7rem;
+}
+
+.fondo-seminarios {
+  background-color: rgb(59, 174, 169);
+}
+
+.fondo-jornadas {
+  background-color: rgb(71, 186, 236);
+}
+
+.fondo-diplomatura {
+  background-color: #F7941E;
+}
+
+.fondo-conferencias {
+  background-color: #EE3D8F;
+}
+
+.fondo-curso {
+  background-color: #37BBED;
+}
+
+.logo-mtr {
+  float: right;
+}
+
+.boton-footer {
+  color: #37BBED;
+  font-size: 30px;
+}
+
+.margin-footer {
+  margin-top: 2rem;
+}
+
+.alinear-derecha {
+  float: right;
+}
+
+.noLink {
+  text-decoration:none;
+}
